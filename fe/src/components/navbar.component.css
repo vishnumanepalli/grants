@@ -1,0 +1,5 @@
+.navbar-dark{
+    --bs-navbar-hover-color: rgba(72, 204, 245, 0.75);
+    --bs-navbar-disabled-color: #6491d4;
+    padding-left:20px;
+}
